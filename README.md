@@ -10,10 +10,12 @@ Archana M
 Ponathipan Jawahar
 
 Socials:
-Hemang Mohan: [LinkedIn](https://www.linkedin.com/in/hemang-mohan-7a7a9415a/)
-Vivek Kumar Yadav: [LinkedIn](https://www.linkedin.com/in/vivenkumarxr/)
-Archana M: [LinkedIn](https://www.linkedin.com/in/archana-madhavan-8381461ab/)
-Ponathipan Jawahar: [LinkedIn](https://www.linkedin.com/in/ponathipan-jawahar-33a91481/)
+|                 |                                                                  |
+|---------------------|-------------------------------------------------------------------------|
+| Hemang Mohan        | [LinkedIn](https://www.linkedin.com/in/hemang-mohan-7a7a9415a/) |
+| Vivek Kumar Yadav   | [LinkedIn](https://www.linkedin.com/in/vivenkumarxr/) |
+| Archana M           | [LinkedIn](https://www.linkedin.com/in/archana-madhavan-8381461ab/) |
+| Ponathipan Jawahar  | [LinkedIn](https://www.linkedin.com/in/ponathipan-jawahar-33a91481/) |
 
 GameSense runs on Snapdragon® NPU that delivers live, AI-powered cricket commentary using a large language model (LLM, e.g., [Llama 3.2 3B](https://aihub.qualcomm.com/compute/models/llama_v3_2_3b_instruct)) accelerated by the Genie SDK.
 
