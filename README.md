@@ -1,6 +1,20 @@
 # GameSense
 GameSense is an AI-powered dynamic commentary generation system designed to bring real-time, insightful, and engaging commentary to games, sports, and other interactive experiences. Leveraging Generative AI, GameSense analyzes gameplay or events and crafts high-quality, adaptive narratives, enhancing audience engagement.
 
+Project built as part of the Qualcomm EDGE AI Hackathon, Bangalore.
+
+Team Members :
+Hemang Mohan 
+Vivek Kumar Yadav
+Archana M
+Ponathipan Jawahar
+
+Socials:
+Hemang Mohan: [LinkedIn](https://www.linkedin.com/in/hemang-mohan-7a7a9415a/)
+Vivek Kumar Yadav: [LinkedIn](https://www.linkedin.com/in/vivenkumarxr/)
+Archana M: [LinkedIn](https://www.linkedin.com/in/archana-madhavan-8381461ab/)
+Ponathipan Jawahar: [LinkedIn](https://www.linkedin.com/in/ponathipan-jawahar-33a91481/)
+
 GameSense runs on Snapdragon® NPU that delivers live, AI-powered cricket commentary using a large language model (LLM, e.g., [Llama 3.2 3B](https://aihub.qualcomm.com/compute/models/llama_v3_2_3b_instruct)) accelerated by the Genie SDK.
 
 ---
@@ -163,6 +177,6 @@ The game integrates with a Flask-based backend to:
 
 This project exemplifies the seamless integration of VR technology with AI-powered commentary systems, creating an engaging and immersive experience for cricket enthusiasts.
 
-Demo Video: [Watch Demo](https://example.com/demo-video)
+Demo Video: [Watch Demo](https://drive.google.com/file/d/1P50k12IsAczm4QMJP1O5tnUryYXqizRO/view?usp=sharing)
 
 ---
